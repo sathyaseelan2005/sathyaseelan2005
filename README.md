@@ -10,9 +10,10 @@ I’m a passionate beginner developer who loves learning by building real projec
 ![](https://github-readme-stats.vercel.app/api?username=sathyaseelan2005&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sathyaseelan2005&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathyaseelan2005&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 LeetCode Achievements
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sathyaseelan2005&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+![LeetCode](https://leetcard.jacoblin.cool/sathyaseelan73?theme=dark&font=Karma&ext=contest)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
