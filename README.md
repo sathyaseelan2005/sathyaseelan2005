@@ -16,7 +16,8 @@ I’m a passionate beginner developer who loves learning by building real projec
 
 ## 🧠 LeetCode
 
-![LeetCode Badge]([https://img.shields.io/badge/LeetCode-Active-orange?logo=leetcode](https://leetcode.com/medal/?showImg=0&id=7892761&isLevel=false))
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/sathyaseelan73/)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
